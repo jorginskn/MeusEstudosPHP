@@ -16,7 +16,6 @@
             <option value="4"> / </option>
         </select>
         <label>NUM 2</label>
-        <input type="number" name="num2">
         <button type="submit">Enviar</button>
     </form>
  <?php
